@@ -16,3 +16,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     dplyr
+URL: https://github.com/EAMI91/colorearmorant
+BugReports: https://github.com/EAMI91/colorearmorant/issues
